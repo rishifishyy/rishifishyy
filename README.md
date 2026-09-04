@@ -1,6 +1,6 @@
-## Hi there, I'm Rishi 👋
+<h2 align="center">Hi There, I'm Rishifishyy 👋</h2>
 
-### 🐍 My Contributions Snake
+<h3 align="center">🐍 My Contributions Snake</h3>
 
 <p align="center">
   <picture>
